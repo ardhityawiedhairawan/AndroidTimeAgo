@@ -1,12 +1,7 @@
 Android Time Ago
 ==============================
 Displaying time : 
-1 Minutes Ago
-15 Minutes Ago
-Yesterday
-2 days ago
-5 days ago
-etc.
+1 Minutes Ago, 15 Minutes Ago, Yesterday, 2 days ago, 5 days ago, etc.
 
 Result
 --------------
