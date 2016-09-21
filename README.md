@@ -5,6 +5,7 @@ Displaying time :
 
 getRelativeTimeSpanString();
 ==============================
+```
 public String getTimeAgo(String dateInput) {
     String timeformat = dateInput;
     try {
@@ -22,6 +23,7 @@ public String getTimeAgo(String dateInput) {
 
     return timeformat;
 }
+```
 
 Result
 --------------
